@@ -3,6 +3,12 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="?android:colorBackground" />
 
+    <!-- my code -->
+    <item name="android:windowSplashScreenBackground">@color/green</item>
+
+    <item name="android:windowSplashScreenAnimationDuration">1000</item>
+    
+
     <!-- You can insert your own image assets here -->
     <!-- <item>
         <bitmap
